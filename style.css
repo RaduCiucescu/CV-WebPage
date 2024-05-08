@@ -1,0 +1,36 @@
+body{
+    padding: 48px;
+}
+p{
+    font-size: 16px;
+    font-weight: 500px;
+}
+
+.primul{
+    font-size: 16px;
+    font-weight: 700;
+}
+h2{
+    font-size: 22px;
+    font-weight: 700;
+    color: #005889;
+}
+.skills-container{
+    display:flex;
+    justify-content: space-between;
+}
+.skills-container li::marker{
+    color: #005889;
+}
+.al-doilea{
+    font-size: 18px;
+    font-weight: 700;
+}
+.al.treiea{
+    font-size: 16px;
+    font-weight: 500;
+}
+.al-patrulea{
+    font-size: 12px;
+    font-weight: 500;
+}
